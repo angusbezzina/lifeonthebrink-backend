@@ -1,0 +1,5 @@
+# Ignore the following
+
+EC2-WORDPRESS-INSTRUCTIONS.md
+TODO.md
+/old-compose-versions
